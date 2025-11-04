@@ -1,0 +1,91 @@
+:root {
+    --cc-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --cc-font-size: 16px;
+    --cc-bg: #fff;
+    --cc-z-index: 2147483647;
+    --cc-text: #2d4156;
+    --cc-border-radius: .45rem;
+    --cc-btn-primary-bg: #2d4156;
+    --cc-btn-primary-text: var(--cc-bg);
+    --cc-btn-primary-hover-bg: #1d2e38;
+    --cc-btn-primary-hover-text: var(--cc-btn-primary-text);
+    --cc-btn-secondary-bg: #eaeff2;
+    --cc-btn-secondary-text: var(--cc-text);
+    --cc-btn-secondary-hover-bg: #d8e0e6;
+    --cc-btn-secondary-hover-text: var(--cc-btn-secondary-text);
+    --cc-btn-border-radius: 0.375rem;
+    --cc-toggle-bg-off: #919ea6;
+    --cc-toggle-bg-on: var(--cc-btn-primary-bg);
+    --cc-toggle-bg-readonly: #d5dee2;
+    --cc-toggle-knob-bg: #fff;
+    --cc-toggle-knob-icon-color: #ecf2fa;
+    --cc-block-text: var(--cc-text);
+    --cc-cookie-category-block-bg: #f0f4f7;
+    --cc-cookie-category-block-bg-hover: #e9eff4;
+    --cc-section-border: #f1f3f5;
+    --cc-cookie-table-border: #e9edf2;
+    --cc-overlay-bg: #040608;
+    --cc-overlay-opacity: .85;
+    --cc-consent-modal-box-shadow: 0 0.625rem 1.875rem rgba(2, 2, 3, .28);
+    --cc-webkit-scrollbar-bg: #cfd5db;
+    --cc-webkit-scrollbar-bg-hover: #9199a0;
+}
+:root {
+    --color-primary: #d9dfc9;
+    --color-on-primary: #000000;
+    --color-background: #ffffff;
+    --color-on-background: #000000;
+    --color-product-image-background: rgba(0, 0, 0, 0.1);
+    --color-primary-rgb: 217, 223, 201;
+    --color-on-primary-rgb: 0, 0, 0;
+    --color-background-rgb: 255, 255, 255;
+    --color-on-background-rgb: 0, 0, 0;
+    --color-background-brightness: 255;
+    --button-corner-radius: 0px;
+    --input-corner-radius: 0px;
+    --image-corner-radius: 0px;
+    --font-family-base: Chivo, sans-serif;
+    --font-family-base-url: https://themes.fourthwall.com/themes/fonts/woff2/chivo_n4.woff2;
+    --font-family-base-name: Chivo;
+    --font-family-heading: Chivo, sans-serif;
+    --font-weight-base: 400;
+    --font-weight-base-bold: bolder;
+    --font-weight-heading: 700;
+    --font-style-base: normal;
+    --font-style-heading: normal;
+    --text-transform-base: none;
+    --text-transform-heading: none;
+    --logo-width: 60px;
+    --letter-spacing-heading: 0px;
+    --image-ratio-padding: 133.34%;
+    --font-body-scale: 1.0;
+    --font-heading-scale: 1.0;
+    --font-text-logo-scale: 0.6;
+}
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+* {
+    box-sizing: inherit;
+    margin: 0;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
